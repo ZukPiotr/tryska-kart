@@ -1,7 +1,3 @@
-# tryska-kart
-DIY shopping cart go-kart
-
-
 
 ### Propozycja silników
 
@@ -65,4 +61,5 @@ DIY shopping cart go-kart
   - oparty na czujniku Halla, generujący 0-5V
   - **Pozyskanie:**
 
-**SZACOWANY KOSZT:** *~8840 zł*
+**SZACOWANY KOSZT (CHAT):** *~5160-8840 zł*
+**SZACOWANY KOSZT (POLICZONY):** *~XXXX zł*
