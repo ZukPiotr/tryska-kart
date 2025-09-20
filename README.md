@@ -1,3 +1,10 @@
+# TRYSKA-KART
+
+## Spis treści
+
+- Propozycja silników
+- Lista potrzebnych rzeczy
+
 
 ### Propozycja silników
 
@@ -49,6 +56,7 @@
   - **Pozyskanie:**
 - Bateria:
   - Ogniwa wysokoprądowe litowo-jonowe w formacie 2700 (np. Molicel P42A, Samsung 40T/50S)
+    - **Informacje:** Potrzeba by było konfiguracji 4p20s, czyli zestawu 20 bateri połączonych szeregowy i 4 takich pakietów połączonych równolegle. Jedno takie ogniwo kosztuje około 5.39
     - **Pozyskanie:**
   - Taśma niklowa
     - **Pozyskanie:**
